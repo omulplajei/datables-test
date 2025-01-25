@@ -1,0 +1,11 @@
+AI Initiative name,Description,How does it operate,Duplicate Rows,Supporting tool/technology,Divisions
+Smart Assistant,An AI-powered virtual assistant for customer service,Uses NLP to interact with users and resolve queries,false,ChatGPT,Customer Service
+Predictive Maintenance,A system to predict equipment failures before they occur,Analyzes IoT sensor data and historical maintenance logs,false,TensorFlow,Operations
+Fraud Detection,AI solution to identify fraudulent transactions,Monitors transaction patterns using ML models,true,Scikit-learn,Finance
+Personalized Learning Platform,Adaptive AI system for personalized education,Tracks user performance and adjusts content dynamically,false,Python and React,Education
+Image Recognition Tool,AI for analyzing and categorizing images,Processes image data with CNNs,false,OpenCV,Research
+Sentiment Analysis,AI for analyzing customer feedback and sentiment,Parses text using sentiment analysis algorithms,true,NLTK,Marketing
+Chatbot Integration,Automated customer interaction chatbot,Utilizes pre-trained conversational AI models,false,Rasa,Customer Support
+Supply Chain Optimizer,AI for optimizing supply chain logistics,Forecasts demand and routes using predictive analytics,false,PyTorch,Logistics
+AI-Powered Analytics,Dashboard powered by AI to analyze business metrics,Uses real-time data streaming and processing,false,Power BI and Azure,Data Science
+Healthcare Diagnosis Support,System to assist doctors in diagnosis,Compares patient data with AI-trained medical datasets,false,IBM Watson,Healthcare
